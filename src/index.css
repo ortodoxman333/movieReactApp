@@ -22,10 +22,14 @@ header {
   padding: 1rem;
   justify-content: flex-end;
   display: flex;
-
 }
-
+.header .h1 {
+  justify-content: left;
+}
 .search {
+  margin-top: 100px;
+
+
   background-color: transparent;
   border: 2px solid #22254b;
   border-radius: 50px;
@@ -110,3 +114,25 @@ header {
   color: red;
 }
 
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #9c9595;
+}
+
+.person {
+  width: 100%;
+margin-bottom: -150px;
+}
+
+.person img {
+  width: 120%;
+  border-radius: 999px;
+
+}
+.titlehead {
+  margin-top: 90px;
+  margin-right: 500px;
+  font-family:cursive;
+}
