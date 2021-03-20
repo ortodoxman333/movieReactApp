@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [https://happy-keller-970344.netlify.app/](https://happy-keller-970344.netlify.app/) to view it in the browser.
+Open [https://jovial-euler-1b0414.netlify.app/](https://jovial-euler-1b0414.netlify.app/) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
